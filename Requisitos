@@ -1,0 +1,31 @@
+Hospital psiquiátrico
+Requisitos
+Pessoa
+	Nome, rg, cpf, data de nascimento, telefone, email, endereço.
+	Toda pessoa é profissional e/ou paciente
+
+Paciente
+	Id, convênio, contato de emergência, data de internação
+	Pacientes podem realizar exames
+	Pacientes podem realizar consultas
+	Pacientes podem realizar exames
+	Pacientes podem fazer terapia individual
+	Pacientes podem participar sessões em grupo de terapia
+	Pacientes podem tomar remédios
+	Pacientes têm prontuário médico
+
+Profissional
+	Todo profissional deve ser Médico, enfermeiro ou psicólogo
+
+Médico
+	CRM, agendamento
+	Médicos podem realizar consultas
+	Médicos 
+Enfermeiro
+
+Psicólogo
+
+Doença
+	Sintomas, tratamento, remédios
+Remédio
+	Composição, tipo de administração, posologia, contraindicações
