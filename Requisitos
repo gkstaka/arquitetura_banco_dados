@@ -18,14 +18,33 @@ Profissional
 	Todo profissional deve ser Médico, enfermeiro ou psicólogo
 
 Médico
-	CRM, agendamento
+	CRM, agendamento, especialização
 	Médicos podem realizar consultas
-	Médicos 
+	Médicos sao plantonistas e horarios estabelecidos
+
+Plantonista
+	escala
+
+"outro tipo de médico"
+	horarios de atendimento
+
 Enfermeiro
+	Numero? de cadastro de enfermeiro, escala
 
 Psicólogo
+	CFP, especialização
 
 Doença
 	Sintomas, tratamento, remédios
+
 Remédio
 	Composição, tipo de administração, posologia, contraindicações
+
+Sessão
+	São sessões de terapia individual ou grupo
+
+Individual
+	Nome, horario
+
+Grupo
+	Nome, horario
