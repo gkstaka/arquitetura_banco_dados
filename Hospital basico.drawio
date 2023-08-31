@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T18:01:47.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UT4qAFTL8XeokhfkBgO6" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T18:45:33.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="efRyZh2O26H9byHY8HEX" version="21.6.9" type="github">
   <diagram name="Page-1" id="8COnSRU2M8LVrnHPRVo5">
     <mxGraphModel dx="2261" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,8 +207,11 @@
         <mxCell id="Y6Sf6Vk-zJSUdV1HRr7W-63" value="Sexo" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="100" y="220" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Y6Sf6Vk-zJSUdV1HRr7W-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6Sf6Vk-zJSUdV1HRr7W-67" target="Y6Sf6Vk-zJSUdV1HRr7W-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y6Sf6Vk-zJSUdV1HRr7W-67" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="298.33" y="240" width="40" height="20" as="geometry" />
+          <mxGeometry x="350" y="240" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y6Sf6Vk-zJSUdV1HRr7W-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Y6Sf6Vk-zJSUdV1HRr7W-68" target="Y6Sf6Vk-zJSUdV1HRr7W-55">
           <mxGeometry relative="1" as="geometry" />
